@@ -1,4 +1,4 @@
-package com.example.testcode.Algorithm;
+package com.example.testcode.Algorithm.ExhaustiveSearch;
 
 import java.util.*;
 
